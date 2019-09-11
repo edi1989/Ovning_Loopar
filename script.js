@@ -15,5 +15,6 @@ for (let i = 0; i < arraylangd; i++) {
     listaUL.appendChild(listaLI);
 
     listaUL.appendChild(listaLI)
-    body.appendChild(listaUL)
+    div.appendChild(listaUL)
+    body.appendChild(div)
 }
